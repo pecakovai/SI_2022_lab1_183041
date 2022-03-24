@@ -1,5 +1,11 @@
 Body Lotion x3
 Body Scrub x3
 Face mask x3
+<<<<<<< HEAD
 Shower Gel x1
 Shampoo x3
+=======
+Body spray x1
+Shampoo x4
+Parfume x2
+>>>>>>> branch2
